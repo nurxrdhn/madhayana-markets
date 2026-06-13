@@ -1,1 +1,0 @@
-export default async function handler(req,res){return res.status(200).json({status:'success',message:'Payment success endpoint ready. Frontend page: /payment/success'});}
